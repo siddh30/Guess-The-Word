@@ -1,6 +1,6 @@
-# Guess The Word  
+# <div align="center">Guess The Word</div>
 
-<p align = "left"><img width="200" img height="200" src = https://github.com/siddh30/Guess-The-Word/blob/master/Guess_the_word.jpeg </p>
+<p align = "center"><img width="200" img height="200" src = https://github.com/siddh30/Guess-The-Word/blob/master/Guess_the_word.jpeg </p>
 
 What this project about:- This project is an interactive Python Game with a Graphical User Interface where the user has to guess the right answer in one word to a set of riddles.
 
