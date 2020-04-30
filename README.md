@@ -1,5 +1,5 @@
-# Guess The Word
-Project For EE-551 (Python)
+# <div align="center">Guess The Word</div> 
+#### <div align="center">Project For EE-551 (Python)</div> 
 
 What this project about:- This project is an interactive Python Game with a Graphical User Interface where the user has to guess the right answer in one word to a set of riddles.
 
