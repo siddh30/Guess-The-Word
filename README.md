@@ -1,5 +1,4 @@
-# Guess The Word 
-Project For EE-551 (Python) 
+# Guess The Word  
 
 <p align = "left"><img width="200" img height="200" src = https://github.com/siddh30/Guess-The-Word/blob/master/Guess_the_word.jpeg </p>
 
