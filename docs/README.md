@@ -1,7 +1,13 @@
-# <p align = 'center'>Guess The Word </p>
+<p>
+<p align="center">
+<img src="Guess_the_word.jpeg"
+     img width="200" img height="200"
+     alt="Markdown Monster icon"
+      />
+</p>
+</p>. 
 
-<p align = 'center'> <img width="200" img height="200" src = https://github.com/siddh30/Guess-The-Word/blob/master/Guess_the_word.jpeg  </p>
-
+                        
 What this project about:- This project is an interactive Python Game with a Graphical User Interface where the user has to guess the right answer in one word to a set of riddles.
 
 Environment needed for the project:- This is a basic Python code which is compatible with both python3 and python2. You can get the desired output in either Jupyter Notebook or PyCharm 
