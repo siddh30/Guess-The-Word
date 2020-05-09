@@ -18,3 +18,4 @@ How To Play :-
 5) If your answer is incorrect. Then You lose the game.
 
 6) This game is a suuden death quiz game and if you answer incorrectly you lose instantly.
+
