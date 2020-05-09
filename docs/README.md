@@ -1,12 +1,3 @@
-<p>
-<p align="center">
-<img src="Guess_the_word.jpeg"
-     img width="200" img height="200"
-     alt="Markdown Monster icon"
-      />
-</p>
-</p>. 
-
                         
 What this project about:- This project is an interactive Python Game with a Graphical User Interface where the user has to guess the right answer in one word to a set of riddles.
 
@@ -15,6 +6,7 @@ Environment needed for the project:- This is a basic Python code which is compat
 Libaries Required :- Tkinter ( this is an in-built library which does not need to be installed. Along with this basic classes and methods have been used.
 
 How To Play :-
+
 1) Run the code.
 
 2) There will be a pop gui window with a riddle.
