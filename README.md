@@ -9,9 +9,14 @@ Environment needed for the project:- This is a basic Python code which is compat
 Libaries Required :- Tkinter ( this is an in-built library which does not need to be installed. Along with this basic classes and methods have been used.
 
 How To Play :-
-1) Run the code
-2) There will be a pop gui window with a riddle 
+1) Run the code.
+
+2) There will be a pop gui window with a riddle.
+
 3) Answer the riddle in one word.
-4) If your answer is correct then you move to the next riddle
+
+4) If your answer is correct then you move to the next riddle.
+
 5) If your answer is incorrect. Then You lose the game.
+
 6) This game is a suuden death quiz game and if you answer incorrectly you lose instantly.
